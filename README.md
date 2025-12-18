@@ -30,11 +30,12 @@ The project is designed to mirror the backend financial modeling work performed 
 ---
 
 ## Project Structure
+```text
 financial-statement-analysis/
 ├── data/
-│ ├── income_statement.csv
-│ ├── balance_sheet.csv
-│ └── cash_flow.csv
+│   ├── income_statement.csv
+│   ├── balance_sheet.csv
+│   └── cash_flow.csv
 │
 ├── data_loader.py
 ├── normalizer.py
@@ -43,6 +44,7 @@ financial-statement-analysis/
 ├── exporter.py
 ├── run.py
 └── README.md
+
 
 ---
 
