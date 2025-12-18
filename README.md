@@ -45,7 +45,7 @@ financial-statement-analysis/
 ├── run.py
 └── README.md
 
-```md
+```
 ---
 
 ## How It Works
